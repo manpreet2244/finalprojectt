@@ -1,0 +1,187 @@
+[
+    {
+        "title":"1. What is the default page name for the Cordova application which is implemented as a web page ?",
+        "choices":[
+            "index",
+            "None of the above",
+            "application",
+            "start"
+        ],
+        "correctAnswer":0
+    },
+    {
+        "title":"2. Which workflow should be used for developing Cordova application for a specific platform ?",
+        "choices":[
+            "Native Platform",
+            "Core Platform",
+            "None of the above",
+            "Web Project"
+        ],
+        "correctAnswer":0
+    },
+    {
+        "title":"3. Which of the following approach will add plugins to all platforms in Cordova ?",
+        "choices":[
+            "None of the above",
+            "External Libraryr",
+            "cordova",
+            "Plugman CLI"
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":"4. Which command line parameter install platform specific SDK ?",
+        "choices":[
+            "sdk",
+            "sdk-append",
+            "add",
+            "append"
+        ],
+        "correctAnswer":2
+    },
+    {
+        "title":" 5. How does Cordova implements device APIs from version 3.0 onwards ?",
+        "choices":[
+            "plugins",
+            "External Library",
+            "None of the above",
+            "Extensions"
+        ],
+        "correctAnswer":0
+    }, {
+        "title":" 6. Where does the deviceready event handler is referenced by default from ?",
+        "choices":[
+           "index.xml",
+            "index.php",
+            "index.js",
+           "index.html"
+        ],
+        "correctAnswer":3
+    }, {
+        "title":"  7. What is the default name of home page of a skeletal web-based application in Cordova ?",
+        "choices":[
+           "home.xml",
+            "index.xml",
+            "index.html",
+            "home.html"
+        ],
+        "correctAnswer":2
+    }, {
+        "title":"  8. Which character indicates, after it is the plugin’s version number to append ?",
+        "choices":[
+            "@",
+            "-",
+            "_",
+            ":"
+        ],
+        "correctAnswer":2
+    }, {
+        "title":" 9. Which directory stores the platform-specific code within the project ?",
+        "choices":[
+            "mobile",
+           "platforms",
+            "platform",
+            "mob"
+        ],
+        "correctAnswer":2
+    }, {
+        "title":"10. Which switch is used for global installation in Cordova ?",
+        "choices":[
+            "-g",
+           "g",
+            "-s",
+            "mob"
+        ],
+        "correctAnswer":2
+    }, {
+        "title":" 11. Which Cordova version introduced Cordova CLI ?",
+        "choices":[
+            3,
+            2,
+            1,
+            "None of the above"
+        ],
+        "correctAnswer":0
+    }, {
+        "title":" 12. Which mobile platform is not supported by Cordova ?",
+        "choices":[
+            "Android",
+            "iOS",
+            "Ubuntu",
+            "None of the above"
+        ],
+        "correctAnswer":3
+    }, {
+        "title":" 13. Which of the following platform tools used to package Cordova application into a native application, runs on a single operating system only ?",
+        "choices":[
+            "Android SDK",
+            "BlackBerry SDKs",
+            "iOS SDK",
+            "None of the above"
+        ],
+        "correctAnswer":3
+    }, {
+        "title":" 14. What is the typical filename of startup page file of an Cordova application ?",
+        "choices":[
+            " index.html",
+            "index.htm",
+            "config.xml",
+            "conf.xml"
+        ],
+        "correctAnswer":3
+    }, {
+        "title":" 15. Which mobile platform is not supported by Cordova ?",
+        "choices":[
+            "Android",
+            "iOS",
+            "Ubuntu",
+            "None of the above"
+        ],
+        "correctAnswer":3
+    }, {
+        "title":" 16. JSON is a .. . ",
+        "choices":[
+            "Programming language ",
+            "Scripting Language",
+            "Markup Language ",
+            "GUI Programming Language "
+        ],
+        "correctAnswer":2
+    }, {
+        "title":" 17. JSON is _____ than XML. . ",
+        "choices":[
+            "Android",
+            "iOS",
+            "Ubuntu",
+            "None of the above"
+        ],
+        "correctAnswer":0
+    }, {
+        "title":" 18. Which function is used to convert a JSON text into an object ? ",
+        "choices":[
+            "string ",
+            "stringify ",
+            "eval ",
+            "pull "
+        ],
+        "correctAnswer":2
+    }, {
+        "title":"  19. Does JSON creates transmission objects to be transferred across systems ?",
+        "choices":[
+            "Yes ",
+            "No ",
+            "N/A",
+            "N/A"
+        ],
+        "correctAnswer":1
+    }, {
+        "title":" 20. Can all XML parser reads JSON data too ?",
+        "choices":[
+            "Yes ",
+            "No ",
+            "N/A ",
+            "N/A "
+        ],
+        "correctAnswer":1
+    }
+]
